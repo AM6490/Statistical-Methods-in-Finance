@@ -1,9 +1,0 @@
-RLab1:
-
-In this R lab I was tasked with analyzing adjusted close prices for three stocks, MSFT, IBM, and CAT over 4963 days.
-
-First I calculated and plotted the efficient frontier for the three stocks. 
-
-Then I calculated and plotted the frontier again but this time with the incorporation of a risk-free asset to get the tangency portfolio.
-
-I repeated this with variations in constraints like short-selling and borrowing at the risk-free rate being allowed/not allowed. 
